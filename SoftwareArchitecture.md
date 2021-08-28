@@ -658,7 +658,7 @@ maintenances costs due to the amount of code that needs to be refactored.
   complexity, delayed improvements, and insufficient incremental change.” (Grady Booch,
   2014)
 
-![technical-debt](notes-screens/technical-debt.png)
+![technical-debt](notes-screens/technical-debt.PNG)
 
 
 ### Suggested Architecture Focus in Different Project Types
