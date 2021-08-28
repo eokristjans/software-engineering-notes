@@ -271,7 +271,7 @@ as a **set of code or data units** that have to be constructed or procured.
 
 An architectural tactic is a design decision that affects a quality attribute.
 
-![quality-attributes](notes-screens/quality-attributes.png)
+![quality-attributes](notes-screens/quality-attributes.PNG)
 
 
 ### Availability Tactics
