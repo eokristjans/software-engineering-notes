@@ -271,7 +271,7 @@ as a **set of code or data units** that have to be constructed or procured.
 
 An architectural tactic is a design decision that affects a quality attribute.
 
-![quality-attributes](notes-screens/quality-attributes.png)
+![quality-attributes](notes-screens/quality-attributes.PNG)
 
 
 ### Availability Tactics
@@ -658,7 +658,7 @@ maintenances costs due to the amount of code that needs to be refactored.
   complexity, delayed improvements, and insufficient incremental change.” (Grady Booch,
   2014)
 
-![technical-debt](notes-screens/technical-debt.png)
+![technical-debt](notes-screens/technical-debt.PNG)
 
 
 ### Suggested Architecture Focus in Different Project Types
